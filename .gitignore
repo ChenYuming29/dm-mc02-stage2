@@ -1,0 +1,11 @@
+﻿build/
+cmake-build-*/
+.idea/
+.run/
+.vscode/
+.cache/
+.mxproject
+*.elf
+*.map
+*.bin
+*.hex
